@@ -32,9 +32,9 @@ export default {
 ## 三、如何从 [ProvinceJson](https://github.com/getActivity/ProvinceJson) 到 Element 可用数据
 
 ```js
-import province from 'ProvinceJson.json'
+import provinceJson from 'ProvinceJson.json'
 
-this.provinceData = province.map(province => {
+this.provinceData = provinceJson.map(province => {
                 return {
                     value: province.name,
                     label: province.name,

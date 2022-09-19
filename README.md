@@ -1,6 +1,6 @@
 # 省市县数据 for Element
 
-> 源数据取自 [https://github.com/getActivity/ProvinceJson]()
+> 源数据取自 [https://github.com/getActivity/ProvinceJson](https://github.com/getActivity/ProvinceJson)
 
 
 
